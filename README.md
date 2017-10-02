@@ -1,13 +1,11 @@
-# NetFlix OSS + Spring boot example
+# Eureka Server with Eureka Discovery Starter Demo
 
-
-## Presentation
-
-In this example we will build a Micro service architecture using Netflix OSS and Spring Boot
+Demo to setup Eureka Server with Eureka Discovery Micro-services 
 
 ## Development
 
-Pull the project and access import the maven projects into your IDE, and inside every project execute the following command : 
+Pull the project, and rum commands to start the project. 
+Maven is needed to build the projects. 
 
     //windows
 	mvnw spring-boot:run
